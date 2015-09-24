@@ -1,4 +1,4 @@
-# AngularExample by Bartłomiej Dybowski
+# AngularExample
 
 Example of AngularJS app which was created as example to blog post on
 burczu-programator.pl. Contains also examples of Jasmine tests (Test
